@@ -1,5 +1,7 @@
 = 3Scale Introdcution
 
+This walkthrough will introduce fundamental concepts etc.
+
 [time=5]
 == Task Title
 
